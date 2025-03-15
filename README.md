@@ -35,6 +35,8 @@ Hi there! 👋 I'm Ranudee<br><br>I’m an AI and Data Science student at IIT (a
 ![](https://nirzak-streak-stats.vercel.app/?user=RanudeeFernando&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanudeeFernando&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/ranudeefernando/ranudeefernando/output/snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RanudeeFernando&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -44,7 +46,7 @@ Hi there! 👋 I'm Ranudee<br><br>I’m an AI and Data Science student at IIT (a
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RanudeeFernando&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/ranudeefernando/ranudeefernando/output/snake.svg" alt="Snake animation" />
+
 
 
 ---

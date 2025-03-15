@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Ranudee<br>🚀 AI Enthusiast | Data Science Explorer | Problem Solver<br><br>I’m an AI and Data Science student at IIT (affiliated with Robert Gordon University), passionate about transforming data into intelligent solutions. Whether it’s building predictive models, optimizing systems, or diving into NLP and image processing, I thrive on turning complex problems into innovative, real-world applications.
+Hi there! 👋 I'm Ranudee<br><br>I’m an AI and Data Science student at IIT (affiliated with Robert Gordon University), passionate about transforming data into intelligent solutions. Whether it’s building predictive models, optimizing systems, or diving into NLP and image processing, I thrive on turning complex problems into innovative, real-world applications.
 
 
 ## 🌐 Socials:
